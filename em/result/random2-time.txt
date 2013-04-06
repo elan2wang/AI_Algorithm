@@ -1,0 +1,2 @@
+Iteration time  is : 5.8630 s
+Tteration count is : 66
